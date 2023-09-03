@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "the new website",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus voluptas ea velit consequatur! Odit nulla deleniti sit dignissimos, minus similique, facilis nam dicta aliquam est et quod deserunt quam cupiditate. Ut non qui, accusamus at reprehenderit aliquid sunt optio nisi!",
+      "author": "marioa",
+      "id": 1
+    },
+    {
+      "title": "back to school",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus voluptas ea velit consequatur! Odit nulla deleniti sit dignissimos, minus similique, facilis nam dicta aliquam est et quod deserunt quam cupiditate. Ut non qui, accusamus at reprehenderit aliquid sunt optio nisi!",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "worst day",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus voluptas ea velit consequatur! Odit nulla deleniti sit dignissimos, minus similique, facilis nam dicta aliquam est et quod deserunt quam cupiditate. Ut non qui, accusamus at reprehenderit aliquid sunt optio nisi!",
+      "author": "dutch",
+      "id": 3
+    },
+    {
+      "title": "The way to the ninja ",
+      "body": "Just gotten from a game called naruto the way to the ninja i played when i was very young ",
+      "author": "Doray",
+      "id": 4
+    }
+  ]
+}
